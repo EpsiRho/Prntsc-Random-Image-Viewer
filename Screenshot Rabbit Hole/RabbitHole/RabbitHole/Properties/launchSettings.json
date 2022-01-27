@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RabbitHole (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RabbitHole (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
